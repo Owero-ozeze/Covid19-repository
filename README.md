@@ -1,1 +1,2 @@
-# Covid19-repository
+Text Classification is an area of Machine Learning that classifies text into categories. Text classification is a key component of NLP. examples include sentiment analysis, topic modelling, Name Entities Recognition NER , etc.
+In this project, we will build a sentiment analysis model that help to classify tweets from twitter relating to covid-19 vaccine as neutral, positive or negative tweets. Analysis will also be performed on the dataset to give insights about covid-19 vaccine we will also build a model using ML algorithms and also Deep learning algorithms.
